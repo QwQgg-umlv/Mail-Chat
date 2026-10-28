@@ -1,0 +1,10 @@
+config.json
+mailchat.db
+mailchat.db-shm
+mailchat.db-wal
+server.log
+__pycache__/
+*.pyc
+dist/
+build/
+*.bak
