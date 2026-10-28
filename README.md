@@ -2,7 +2,7 @@
 
 **像聊天一样用邮箱** —— 微信式的桌面邮箱客户端，邮件收发、AI 助手、日历自动整理，一个不少。
 
-![风格](https://img.shields.io/badge/UI-科技风-00F5A0) ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![平台](https://img.shields.io/badge/平台-Windows%20%7C%20macOS-lightgrey)
+![风格](https://img.shields.io/badge/UI-科技风-00F5A0) ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![平台](https://img.shields.io/badge/平台-Windows%20%7C%20)
 
 ## ✨ 功能
 
